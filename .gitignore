@@ -1,0 +1,31 @@
+# Ignore log files
+*.log
+
+# Ignore environment-specific files
+.env
+
+# Ignore build output
+/build/
+# Ignore node_modules directory
+
+node_modules/
+
+
+# Dependency directories
+node_modules/
+npm-debug.log
+yarn-error.log
+uploads/
+# Environment files
+.env
+
+uploads/
+
+F:\project\Ecommerce\server\uploads
+
+# Build output
+/build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
